@@ -10,3 +10,15 @@ torch>=1.0.0
 numpy>=1.13
 tqdm
 torchvision>=0.2.2
+json
+pathlib
+m3inference
+collections
+pprint
+urllib.request
+random
+re
+os
+csv 
+sys
+string 
