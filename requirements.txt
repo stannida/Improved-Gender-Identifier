@@ -12,12 +12,3 @@ tqdm
 torchvision>=0.2.2
 pathlib
 m3inference
-collections
-pprint
-urllib.request
-random
-re
-os
-csv 
-sys
-string 
